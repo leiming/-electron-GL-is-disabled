@@ -1,0 +1,14 @@
+{
+  "name": "electron-gl-is-disabled",
+  "version": "1.0.0",
+  "description": "A sample to describe Electron GL error",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "14"
+  }
+}
